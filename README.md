@@ -1,0 +1,1 @@
+Este é um projeto de teste de  Django com Docker.
